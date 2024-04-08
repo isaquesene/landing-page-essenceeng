@@ -1,3 +1,6 @@
+//Seção Variáveis
+const contato = "https://api.whatsapp.com/send?phone=5512982193719&text=Ol%C3%A1%20Felipe%2C%20tudo%20bem%3F";
+
 document.getElementById("site-header").innerHTML = `
 <section
 class="lqd-section lqd-hide-onstuck w-full flex flex-wrap items-center justify-between border-bottom border-white-10 transition-all px-2percent md:hidden">
@@ -28,8 +31,8 @@ class="lqd-section lqd-hide-onstuck w-full flex flex-wrap items-center justify-b
 <div class="w-50percent flex items-center justify-end py-10 link-white link-font-normal link-14"><a
         href="index-company.html#consultation" class="btn btn-naked leading-16" rel="nofollow"
         data-localscroll="true"><span class="btn-txt" data-text="Consultation">Consultoria</span></a>
-    <div class="pl-20 ml-20 border-left text-white-10"><a href="index-company.html#contact"
-            class="btn btn-naked leading-16" rel="nofollow" data-localscroll="true"><span
+    <div class="pl-20 ml-20 border-left text-white-10"><a href="${contato}"
+            class="btn btn-naked leading-16" rel="nofollow" data-localscroll="true" target="_blank" ><span
                 class="btn-txt" data-text="Contact us">Entre em contato</span></a></div>
     <!--<div class="ld-dropdown-menu link-black flex relative pl-20 ml-20 border-left border-white-10"
         role="menubar"><span class="ld-module-trigger text-14 transition-color collapsed" role="button"
@@ -120,7 +123,7 @@ class="lqd-section w-full flex flex-wrap items-center justify-between px-2percen
                         class="text-white hover:text-primary" href="index-company.html#news">Novidades</a></li>
                 <li class="inline-flex flex-col relative w-auto"><a
                         class="text-white hover:text-primary"
-                        href="page-company-contact.html">Contato</a></li>
+                        href="index-company.html#contact" >Orçamento</a></li>
             </ul>
         </div>
     </div>
@@ -163,7 +166,7 @@ class="lqd-section w-full flex flex-wrap items-center justify-between px-2percen
                 </ul>
             </li>
             <li><a href="#news">Novidades<sup class="link-sup">05</sup></a></li>
-            <li><a href="page-company-contact.html">Contato <sup class="link-sup">06</sup></a></li>
+            <li><a href="index-company.html#contact">Orçamento<sup class="link-sup">06</sup></a></li>
         </ul>
     </div>
 </div>
