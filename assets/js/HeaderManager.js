@@ -105,19 +105,7 @@ class="lqd-section w-full flex flex-wrap items-center justify-between px-2percen
                         class="text-white hover:text-primary" href="page-company-about.html"> Sobre nós</a></li>
                 <li class="inline-flex flex-col relative w-auto"><a
                         class="text-white hover:text-primary"
-                        href="page-company-services.html">Trabalhos</a>
-                </li>
-                <li class="menu-item-has-children inline-flex flex-col relative w-auto"><a
-                        class="text-white hover:text-primary" href="#wrap"><span>Páginas</span> <span
-                            class="submenu-expander"><svg xmlns="http://www.w3.org/2000/svg" width="21"
-                                height="32" viewBox="0 0 21 32" style="width: 1em; height: 1em;">
-                                <path fill="currentColor"
-                                    d="M10.5 18.375l7.938-7.938c.562-.562 1.562-.562 2.125 0s.562 1.563 0 2.126l-9 9c-.563.562-1.5.625-2.063.062L.437 12.562C.126 12.25 0 11.876 0 11.5s.125-.75.438-1.063c.562-.562 1.562-.562 2.124 0z">
-                                </path>
-                            </svg> </span></a>
-                    <ul class="nav-item-children">
-                        <li><a href="page-company-what-we-do.html">O que fazemos?</a></li>
-                    </ul>
+                        href="page-company-services.html">Serviços</a>
                 </li>
                 <li class="inline-flex flex-col relative w-auto"><a
                         class="text-white hover:text-primary" href="index-company.html#news">Novidades</a></li>
@@ -159,12 +147,7 @@ class="lqd-section w-full flex flex-wrap items-center justify-between px-2percen
             data-localscroll-options="{&quot;itemsSelector&quot;:&quot;> li > a&quot;, &quot;trackWindowScroll&quot;: true}">
             <li class="is-active"><a href="index-company.html">Home</a></li>
             <li><a href="page-company-about.html">Sobre nós</a></li>
-            <li><a href="page-company-services.html">Trabalhos</a></li>
-            <li class="menu-item-has-children"><a href="#wrap">Páginas<span class="submenu-expander absolute"></span></a>
-                <ul class="nav-item-children">
-                    <li><a href="page-company-what-we-do.html">O que fazemos?</a></li>
-                </ul>
-            </li>
+            <li><a href="page-company-services.html">Serviços</a></li>
             <li><a href="#news">Novidades<sup class="link-sup">05</sup></a></li>
             <li><a href="index-company.html#contact">Orçamento<sup class="link-sup">06</sup></a></li>
         </ul>
