@@ -24,13 +24,11 @@ class="lqd-section lqd-hide-onstuck w-full flex flex-wrap items-center justify-b
                         <path
                             d="M565.6 36.24C572.1 40.72 576 48.11 576 56V392C576 401.1 569.8 410.9 560.5 414.4L392.5 478.4C387.4 480.4 381.7 480.5 376.4 478.8L192.5 417.5L32.54 478.4C25.17 481.2 16.88 480.2 10.38 475.8C3.882 471.3 0 463.9 0 456V120C0 110 6.15 101.1 15.46 97.57L183.5 33.57C188.6 31.6 194.3 31.48 199.6 33.23L383.5 94.52L543.5 33.57C550.8 30.76 559.1 31.76 565.6 36.24H565.6zM48 421.2L168 375.5V90.83L48 136.5V421.2zM360 137.3L216 89.3V374.7L360 422.7V137.3zM408 421.2L528 375.5V90.83L408 136.5V421.2z" />
                     </svg></span></div>
-            <h3 class="iconbox-heading m-0 text-13 font-normal text-white">São sojé dos Campos, Av exemplo 111º</h3>
+            <h3 class="iconbox-heading m-0 text-13 font-normal text-white">São josé dos Campos - R. Guacuí, 61 - Chácaras Reunidas</h3>
         </div>
     </div>
 </div>
-<div class="w-50percent flex items-center justify-end py-10 link-white link-font-normal link-14"><a
-        href="index-company.html#consultation" class="btn btn-naked leading-16" rel="nofollow"
-        data-localscroll="true"><span class="btn-txt" data-text="Consultation">Consultoria</span></a>
+<div class="w-50percent flex items-center justify-end py-10 link-white link-font-normal link-14">
     <div class="pl-20 ml-20 border-left text-white-10"><a href="${contato}"
             class="btn btn-naked leading-16" rel="nofollow" data-localscroll="true" target="_blank" ><span
                 class="btn-txt" data-text="Contact us">Entre em contato</span></a></div>
@@ -84,7 +82,7 @@ class="lqd-section lqd-hide-onstuck w-full flex flex-wrap items-center justify-b
 <section
 class="lqd-section w-full flex flex-wrap items-center justify-between px-2percent module-header md:hidden">
 <div class="w-15percent flex items-center justify-start"><a class="navbar-brand flex relative py-15"
-        href="index-company.html" rel="home"><span class="navbar-brand-inner post-rel">
+        href="index.html" rel="home"><span class="navbar-brand-inner post-rel">
            <img
                 class="logo-sticky" width="65" height="21"
                 src="assets/images/common/EssenceInvertido-Logo.png" alt="Hub Theme"> <img
@@ -100,7 +98,7 @@ class="lqd-section w-full flex flex-wrap items-center justify-between px-2percen
                 data-localscroll="true"
                 data-localscroll-options="{&quot;itemsSelector&quot;:&quot;> li > a&quot;, &quot;trackWindowScroll&quot;: true}">
                 <li class="inline-flex flex-col relative w-auto is-active"><a
-                        class="text-white hover:text-primary" href="index-company.html">Home</a></li>
+                        class="text-white hover:text-primary" href="index.html">Home</a></li>
                 <li class="inline-flex flex-col relative w-auto"><a
                         class="text-white hover:text-primary" href="page-company-about.html"> Sobre nós</a></li>
                 <li class="inline-flex flex-col relative w-auto"><a
@@ -108,10 +106,8 @@ class="lqd-section w-full flex flex-wrap items-center justify-between px-2percen
                         href="page-company-services.html">Serviços</a>
                 </li>
                 <li class="inline-flex flex-col relative w-auto"><a
-                        class="text-white hover:text-primary" href="index-company.html#news">Novidades</a></li>
-                <li class="inline-flex flex-col relative w-auto"><a
                         class="text-white hover:text-primary"
-                        href="index-company.html#contact" >Orçamento</a></li>
+                        href="index.html#contact" >Orçamento</a></li>
             </ul>
         </div>
     </div>
@@ -145,11 +141,10 @@ class="lqd-section w-full flex flex-wrap items-center justify-between px-2percen
         <ul id="mobile-primary-nav" class="reset-ul lqd-mobile-main-nav main-nav nav"
             data-localscroll="true"
             data-localscroll-options="{&quot;itemsSelector&quot;:&quot;> li > a&quot;, &quot;trackWindowScroll&quot;: true}">
-            <li class="is-active"><a href="index-company.html">Home</a></li>
+            <li class="is-active"><a href="index.html">Home</a></li>
             <li><a href="page-company-about.html">Sobre nós</a></li>
             <li><a href="page-company-services.html">Serviços</a></li>
-            <li><a href="#news">Novidades<sup class="link-sup">05</sup></a></li>
-            <li><a href="index-company.html#contact">Orçamento<sup class="link-sup">06</sup></a></li>
+            <li><a href="index.html#contact">Orçamento<sup class="link-sup">06</sup></a></li>
         </ul>
     </div>
 </div>
